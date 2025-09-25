@@ -7,7 +7,8 @@
 This is an Employee API collection automation project. In this project, we have performed CRUD operations on the Employee API collection. We have also done successful assertions for some test scenarios for each of the operations. Finally, we have generated a Newman report. 
 
 ##  How To Run This Project
-```Clone this project```[Employee API Project](https://github.com/SamiraKhair/EmployeeInfoAutomationAPI)
+```Clone this project```
+[Employee API Project](https://github.com/SamiraKhair/EmployeeInfoAutomationAPI)
 
 ```Hit The Command```
 ```bash
