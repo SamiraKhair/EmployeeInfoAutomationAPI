@@ -8,6 +8,7 @@ This is an Employee API collection automation project. In this project, we have 
 
 ##  How To Run This Project
 ```Clone this project```[Employee API Project](https://github.com/SamiraKhair/EmployeeInfoAutomationAPI)
+
 ```Hit The Command```
 ```bash
 npm i newman
